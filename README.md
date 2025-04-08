@@ -45,4 +45,3 @@ sudo apt install freeglut3-dev
 ---
 
 > Este projeto foi criado com fins acadêmicos, para explorar conceitos de renderização e transformação em 3D com OpenGL.
-```
